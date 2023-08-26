@@ -4,7 +4,7 @@ Proyecto – Contenido Final
 
 Estudiantes:
 Ada María Pinto Maradiaga   20181003826
-José Mauricio flores López 	20161003975
+José Mauricio Flores López 	20161003975
 
 Asignatura:
 Programación Orientada a Objetos
@@ -19,6 +19,6 @@ Fecha:
 26 de agosto de 2023 
 
 
-Enlace del repositorio de GitHub:
+Enlace del repositorio de GitHub: https://github.com/adapinto/Proyecto_Final_POO_Catalogo_Peliculas.git
 
-Enlace del Video: 
+Enlace del Video: https://youtu.be/UGvkRG0tMOw
